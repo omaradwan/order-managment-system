@@ -58,6 +58,10 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+
+## Schema
+![image](https://github.com/omaradwan/order-managment-system/assets/103865034/72bd56c2-bc66-4f2b-989e-2c7c6686b576)
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
