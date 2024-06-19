@@ -62,7 +62,7 @@ $ npm run test:cov
 ## Schema
 ![image](https://github.com/omaradwan/order-managment-system/assets/103865034/72bd56c2-bc66-4f2b-989e-2c7c6686b576)
 
-## Collection Detail using Postman
+## Collection Details using Postman
 https://documenter.getpostman.com/view/31776215/2sA3XTfLUV
 
 ## Support
